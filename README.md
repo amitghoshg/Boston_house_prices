@@ -10,4 +10,7 @@
 
 ### Create a new environment
 
+```
 conda create -p python==3.13.9
+
+```
